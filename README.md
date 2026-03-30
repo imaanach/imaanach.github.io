@@ -1,5 +1,5 @@
 # imaanach.github.io
-# 👩‍💻 Imaan Achmat
+# Imaan Achmat
 
 ## Objective
 I am a motivated and adaptable ICT student seeking an opportunity to gain practical experience in a professional environment where I can develop my skills, contribute positively to a team, and grow within the industry.
@@ -36,23 +36,6 @@ I am a motivated and adaptable ICT student seeking an opportunity to gain practi
 
 ---
 
-## Projects
-
-###  Student Accommodation System
-- Developed a web-based platform for student accommodation  
-- Contributed to front-end design, layout structure, and basic functionality  
-- Worked in a team environment  
-
-### Uber App Redesign
-- Redesigned the Uber mobile interface using Figma  
-- Improved layout and user experience  
-
-### Personal Profile Website
-- Developed a multi-page portfolio website (Home, About, Portfolio, Contact)  
-- Technologies: HTML, CSS, JavaScript  
-
----
-
 ## Skills
 - HTML & CSS  
 - JavaScript (Foundation)  
@@ -64,7 +47,7 @@ I am a motivated and adaptable ICT student seeking an opportunity to gain practi
 ---
 
 ## 🎥 Mock Interview Video
-[Click here to watch my mock interview](PASTE_YOUR_VIDEO_LINK_HERE)
+
 
 ---
 
