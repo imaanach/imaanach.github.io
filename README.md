@@ -1,4 +1,3 @@
-# imaanach.github.io
 # Imaan Achmat
 
 ## Objective
@@ -48,6 +47,7 @@ I am a motivated and adaptable ICT student seeking an opportunity to gain practi
 
 ## 🎥 Mock Interview Video
 
+https://drive.google.com/file/d/1DabsFhEf4fHmoi-5JBrCnLEX8GSTtGQm/view?usp=drive_link
 
 ---
 
