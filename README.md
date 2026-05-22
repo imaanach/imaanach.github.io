@@ -60,12 +60,38 @@ I am an ICT Application Development student seeking to apply my technical and pr
 ---
 
 ##  Portfolio Evidence
+### Mock Interview Video
 
-###  Mock Interview Video
-
-🔗 https://drive.google.com/file/d/1DabsFhEf4fHmoi-5JBrCnLEX8GSTtGQm/view?usp=drive_link
+<iframe 
+src="https://drive.google.com/file/d/1DabsFhEf4fHmoi-5JBrCnLEX8GSTtGQm/preview"
+width="100%" 
+height="400" 
+allow="autoplay">
+</iframe>
 
 ---
+
+## Project Documents
+
+<a href="documents/agile-charter.pdf" target="_blank" 
+style="display:inline-block; padding:10px 15px; margin:5px 0; background:#eaeaea; border-radius:6px; text-decoration:none; color:black;">
+📄 Agile Charter
+</a>
+
+<a href="documents/agile-logbook.pdf" target="_blank" 
+style="display:inline-block; padding:10px 15px; margin:5px 0; background:#eaeaea; border-radius:6px; text-decoration:none; color:black;">
+📘 Agile Logbook
+</a>
+
+<a href="documents/sprint-book.pdf" target="_blank" 
+style="display:inline-block; padding:10px 15px; margin:5px 0; background:#eaeaea; border-radius:6px; text-decoration:none; color:black;">
+🗂 Sprint Book
+</a>
+
+<a href="documents/graduate-attributes.pdf" target="_blank" 
+style="display:inline-block; padding:10px 15px; margin:5px 0; background:#eaeaea; border-radius:6px; text-decoration:none; color:black;">
+🎓 Graduate Attributes (WPBL & eWIL)
+</a>
 
 ##  Reflection 1: Coding in Markdown (STAR Method)
 
