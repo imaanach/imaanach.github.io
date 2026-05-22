@@ -73,22 +73,17 @@ allow="autoplay">
 
 ## Project Documents
 
-<a href="documents/agile-charter.pdf" target="_blank" 
+<a href="./agile-charter.pdf" target="_blank"
 style="display:inline-block; padding:10px 15px; margin:5px 0; background:#eaeaea; border-radius:6px; text-decoration:none; color:black;">
 📄 Agile Charter
 </a>
 
-<a href="documents/agile-logbook.pdf" target="_blank" 
-style="display:inline-block; padding:10px 15px; margin:5px 0; background:#eaeaea; border-radius:6px; text-decoration:none; color:black;">
-📘 Agile Logbook
-</a>
-
-<a href="documents/sprint-book.pdf" target="_blank" 
+<a href="./sprint-book.pdf" target="_blank"
 style="display:inline-block; padding:10px 15px; margin:5px 0; background:#eaeaea; border-radius:6px; text-decoration:none; color:black;">
 🗂 Sprint Book
 </a>
 
-<a href="documents/graduate-attributes.pdf" target="_blank" 
+<a href="./graduate-attributes.pdf" target="_blank"
 style="display:inline-block; padding:10px 15px; margin:5px 0; background:#eaeaea; border-radius:6px; text-decoration:none; color:black;">
 🎓 Graduate Attributes (WPBL & eWIL)
 </a>
