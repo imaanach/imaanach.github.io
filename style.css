@@ -1,0 +1,74 @@
+body{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background:#f4f4f4;
+    color:#333;
+}
+
+header{
+    background:#111;
+    color:white;
+    text-align:center;
+    padding:50px 20px;
+}
+
+nav{
+    margin-top:20px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:10px;
+    font-weight:bold;
+}
+
+section{
+    padding:40px;
+    margin:20px auto;
+    width:80%;
+    background:white;
+    border-radius:10px;
+}
+
+h1,h2,h3,h4{
+    margin-top:0;
+}
+
+.card{
+    background:#fafafa;
+    padding:20px;
+    margin-top:20px;
+    border-left:5px solid #111;
+    border-radius:5px;
+}
+
+.skills span{
+    display:inline-block;
+    background:#111;
+    color:white;
+    padding:10px 15px;
+    margin:5px;
+    border-radius:20px;
+}
+
+.documents a{
+    display:inline-block;
+    margin:10px;
+    padding:12px 20px;
+    background:#111;
+    color:white;
+    text-decoration:none;
+    border-radius:5px;
+}
+
+video{
+    border-radius:10px;
+}
+
+footer{
+    text-align:center;
+    background:#111;
+    color:white;
+    padding:20px;
+}
