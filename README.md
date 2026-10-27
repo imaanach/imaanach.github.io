@@ -156,7 +156,24 @@ Our team uses Trello to organise project tasks and support Agile planning.
 
 **[View Laundry Pickup Pro Trello Board](https://trello.com/b/D6tnqbrx/laundry-pickup-pro)**
 
+
+### Laundry Pickup Pro - Live Application
+
+![Live Application](https://img.shields.io/badge/STATUS-LIVE-80649D?style=for-the-badge)
+![Platform](https://img.shields.io/badge/PLATFORM-VERCEL-D8C4E8?style=for-the-badge&logo=vercel&logoColor=39284F)
+
+Laundry Pickup Pro is a web application developed to make laundry pickup and delivery services more convenient and accessible.
+
+The application provides an online platform where customers can access laundry services and manage their laundry bookings.
+
+### Project Links
+
+**Live Application:** [View Laundry Pickup Pro Website](https://laundry-pickup-pro.vercel.app/)
+
+**Agile Project Management:** [View Trello Board](https://trello.com/b/D6tnqbrx/laundry-pickup-pro)
+
 ---
+
 
 ## 1. Agile Team Charter
 
