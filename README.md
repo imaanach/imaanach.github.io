@@ -339,3 +339,14 @@ Contact details available upon request.
 
 Contact details available upon request.
 
+---
+
+<div align="center">
+
+**Imaan Achmat** · **Cape Peninsula University of Technology** · **2026**
+
+*Learning, building and growing through software development.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8C4E8,50:80649D,100:39284F&height=90&section=footer" alt="Purple portfolio footer" width="100%" />
+
+</div>
