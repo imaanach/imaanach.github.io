@@ -37,7 +37,7 @@ I aim to gain practical experience, contribute effectively to a team, and contin
 
 ### Adidas Cavendish — Sales Assistant
 
-**May 2023 – February 2024**
+**May 2023 – Present**
 
 During my employment at Adidas Cavendish, I developed practical customer service, teamwork, communication and organisational skills.
 
