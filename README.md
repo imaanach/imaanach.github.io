@@ -1,9 +1,10 @@
 
 # Imaan Achmat
 
-![Portfolio Banner](https://capsule-render.vercel.app/api?type=waving&color=0:39284F,50:80649D,100:D8C4E8&height=180&section=header&text=Imaan%20Achmat&fontSize=40&fontColor=ffffff&desc=ICT%20Application%20Development%20Portfolio&descAlignY=65&descSize=16)
+### ICT Application Development Student
 
-### Application Development Student | Cape Peninsula University of Technology
+Cape Peninsula University of Technology
+
 
 ![Portfolio](https://img.shields.io/badge/DIGITAL-PORTFOLIO-39284F?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/AGILE-PRODUCT_OWNER-80649D?style=for-the-badge)
@@ -472,9 +473,3 @@ Contact details available upon request.
 - [Sprint Book](./sprint-book.pdf)
 
 ---
-
-### Imaan Achmat | Digital Portfolio 2026
-
-*Learning, building and growing through software development.*
-
-![Portfolio Footer](https://capsule-render.vercel.app/api?type=waving&color=0:D8C4E8,50:80649D,100:39284F&height=90&section=footer)
