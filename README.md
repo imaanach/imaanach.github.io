@@ -1,396 +1,341 @@
-# Imaan Achmat
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39284F,50:80649D,100:D8C4E8&height=190&section=header&text=Imaan%20Achmat&fontSize=43&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ICT%20Application%20Development%20%7C%20Digital%20Portfolio&descAlignY=60&descSize=17" alt="Imaan Achmat portfolio banner" width="100%" />
+
+**Application Development Student | Cape Peninsula University of Technology**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-39284F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imaanach/imaanach.github.io)
+[![Agile Project](https://img.shields.io/badge/Agile-Laundry_Pickup_Pro-80649D?style=for-the-badge)](https://trello.com/b/D6tnqbrx/laundry-pickup-pro)
+
+[About](#about-me) · [Experience](#experience) · [Education](#education) · [Skills](#technical-skills) · [Portfolio Evidence](#portfolio-evidence) · [Agile Project](#laundry-pickup-pro--agile-portfolio) · [Reflections](#professional-development-reflections) · [References](#references)
+
+</div>
 
 ---
 
-##  Objective
+## About Me
 
-I am an ICT Application Development student seeking to apply my technical and problem-solving skills in a professional environment. I aim to gain practical experience, contribute effectively to a team, and continue developing my abilities in software and web development.
+> **Objective**
+>
+> I am an ICT Application Development student seeking to apply my technical and problem-solving skills in a professional environment. I aim to gain practical experience, contribute effectively to a team, and continue developing my abilities in software and web development.
+
+### Contact
+
+- **Location:** Cape Town, South Africa
+- **Email:** 230458971@mycput.ac.za
 
 ---
 
-##  Contact
-
-*  Address: Turfhall Estate, Ottery
-*  Email: [230458971@mycput.ac.za](mailto:230458971@mycput.ac.za)
-*  Phone: 067 241 4636
-
----
-
-##  Experience
+## Experience
 
 ### Adidas Cavendish — Sales Assistant
 
-**June 2023 - Present**
+**May 2023 – February 2024**
 
-* Assist customers with product selection and provide excellent customer service
-* Operate Point of Sale (POS) system efficiently
-* Receive, manage, and organize stock in the backroom
-* Support daily administrative and store operations
-
----
-
-##  Education
-
-### Al-Azhar High School
-
-**2018 - 2022**
-
-* Qualification: Bachelor’s Pass (NSC)
-
-### Cape Peninsula University of Technology (CPUT)
-
-**2024 - Present**
-
-* Diploma in ICT Application Development
+- Assisted customers with product selection and provided excellent customer service.
+- Operated the Point of Sale (POS) system efficiently.
+- Received, managed, and organised stock in the backroom.
+- Assisted with inter-branch transfers (IBTs).
+- Supported daily administrative and store operations.
 
 ---
 
-##  Skills
+## Education
 
-* HTML & CSS
-* JavaScript (Basic)
-* Java
-* MySQL
-* UX/UI Design
-* Figma
-* GitHub & Version Control
-* Markdown
-* Basic Web Application Development
+| Institution | Period | Qualification |
+| :--- | :--- | :--- |
+| **Al-Azhar High School** | 2018–2022 | National Senior Certificate (Bachelor's Pass) |
+| **Cape Peninsula University of Technology (CPUT)** | 2024–Present | Diploma in ICT Application Development |
 
 ---
 
-##  Portfolio Evidence
+## Technical Skills
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML-EDE3F5?style=for-the-badge&logo=html5&logoColor=39284F)
+![CSS](https://img.shields.io/badge/CSS-D8C4E8?style=for-the-badge&logo=css&logoColor=39284F)
+![JavaScript](https://img.shields.io/badge/JavaScript-EDE3F5?style=for-the-badge&logo=javascript&logoColor=39284F)
+![Java](https://img.shields.io/badge/Java-D8C4E8?style=for-the-badge&logo=openjdk&logoColor=39284F)
+![MySQL](https://img.shields.io/badge/MySQL-EDE3F5?style=for-the-badge&logo=mysql&logoColor=39284F)
+![Figma](https://img.shields.io/badge/Figma-D8C4E8?style=for-the-badge&logo=figma&logoColor=39284F)
+![GitHub](https://img.shields.io/badge/GitHub-EDE3F5?style=for-the-badge&logo=github&logoColor=39284F)
+![Markdown](https://img.shields.io/badge/Markdown-D8C4E8?style=for-the-badge&logo=markdown&logoColor=39284F)
+
+</div>
+
+- HTML & CSS
+- JavaScript (Basic)
+- Java
+- MySQL
+- UX/UI Design
+- Figma
+- GitHub & Version Control
+- Markdown
+- Basic Web Application Development
+
+---
+
+## Portfolio Evidence
+
 ### Mock Interview Video
 
-<iframe 
-src="https://drive.google.com/file/d/1DabsFhEf4fHmoi-5JBrCnLEX8GSTtGQm/preview"
-width="100%" 
-height="400" 
-allow="autoplay">
-</iframe>
+[**View my Mock Interview Recording**](https://drive.google.com/file/d/1DabsFhEf4fHmoi-5JBrCnLEX8GSTtGQm/view)
+
+### Project Documents
+
+| Document | Evidence |
+| :--- | :--- |
+| Agile Team Charter | [View Charter](./agile-charter.pdf) |
+| Sprint Book | [View Sprint Book](./sprint-book.pdf) |
+| Graduate Attributes (WPBL & eWIL) | [View Graduate Attributes](./graduate-attributes.pdf) |
 
 ---
 
-## Project Documents
+# Laundry Pickup Pro — Agile Portfolio
 
-<a href="./agile-charter.pdf" target="_blank"
-style="display:inline-block; padding:10px 15px; margin:5px 0; background:#eaeaea; border-radius:6px; text-decoration:none; color:black;">
-📄 Agile Charter
-</a>
+<div align="center">
 
-<a href="./sprint-book.pdf" target="_blank"
-style="display:inline-block; padding:10px 15px; margin:5px 0; background:#eaeaea; border-radius:6px; text-decoration:none; color:black;">
-🗂 Sprint Book
-</a>
+![Project](https://img.shields.io/badge/PROJECT-LAUNDRY_PICKUP_PRO-39284F?style=for-the-badge)
+![Role](https://img.shields.io/badge/ROLE-PRODUCT_OWNER-80649D?style=for-the-badge)
+![Method](https://img.shields.io/badge/METHODOLOGY-AGILE-D8C4E8?style=for-the-badge&labelColor=80649D)
 
-<a href="./graduate-attributes.pdf" target="_blank"
-style="display:inline-block; padding:10px 15px; margin:5px 0; background:#eaeaea; border-radius:6px; text-decoration:none; color:black;">
-🎓 Graduate Attributes (WPBL & eWIL)
-</a>
+</div>
 
-##  Reflection 1: Coding in Markdown (STAR Method)
+### Project Overview
 
-**Situation:**
-During this assignment, I was required to create a digital portfolio using GitHub and Markdown.
+Laundry Pickup Pro is a proposed laundry pick-up and drop-off service application designed to make laundry services more convenient and accessible to residents in **Maitland, Observatory and Woodstock**.
 
-**Task:**
-My task was to learn how to structure and format a professional CV using Markdown syntax.
+The project addresses challenges faced by busy working adults, elderly residents and people living in apartments without laundry facilities.
 
-**Action:**
-I researched Markdown formatting and practiced using headings, lists, and links. I applied this knowledge to create a clean, structured, and easy-to-read portfolio. I ensured that my content was well-organized and professionally presented.
+The planned service includes a booking system, collection and delivery scheduling, laundromat integration and affordable pricing.
 
-**Result:**
-I successfully created a structured GitHub portfolio. This improved my ability to present information clearly and enhanced my understanding of tools commonly used in the software development industry.
+As **Product Owner**, my responsibilities include organising and prioritising the product backlog and helping the team focus on requirements that meet users' needs.
 
----
+**Project planning:** [Laundry Pickup Pro Trello Board](https://trello.com/b/D6tnqbrx/laundry-pickup-pro)
 
-##  Reflection 2: Mock Interview Experience (STAR Method)
+### Assessment Evidence Index
 
-**Situation:**
-As part of the work readiness training, I participated in a mock interview.
-
-**Task:**
-I needed to present myself professionally and answer interview questions confidently and effectively.
-
-**Action:**
-I prepared by reviewing common interview questions and practicing my responses. During the interview, I focused on maintaining professionalism, clear communication, and confidence.
-
-**Result:**
-The experience helped me identify areas for improvement, such as building confidence and structuring my answers more effectively. It also strengthened my communication skills and better prepared me for real-world interviews.
+| Assessment Component | Evidence | Reflection |
+| :--- | :--- | :--- |
+| Agile Team Charter | [View](#1-agile-team-charter) | [Read](#charter-reflection) |
+| User Stories and Tasks | [View](#2-user-stories-and-tasks) | [Read](#user-stories-reflection) |
+| Product Backlog | [View](#3-product-backlog) | [Read](#product-backlog-reflection) |
+| Sprint Backlog | [View](#4-sprint-backlog) | [Read](#sprint-backlog-reflection) |
+| Agile Logbook | [View](#5-agile-logbook) | [Read](#agile-logbook-reflection) |
 
 ---
 
-##  Reflection 3: GitHub Pages (STAR Method)
+## 1. Agile Team Charter
 
-**Situation:**
-I was required to publish my portfolio using GitHub Pages.
+### Evidence
 
-**Task:**
-My task was to deploy my Markdown portfolio and make it accessible online.
-
-**Action:**
-I created a GitHub repository, uploaded my portfolio, and enabled GitHub Pages. I ensured that the site was properly linked and tested the live URL to confirm that everything displayed correctly.
-
-**Result:**
-I successfully published my portfolio online. This improved my understanding of web deployment and hosting, which are essential skills in modern software development.
-
----
-
-##  References
-
-### Jamie Johannes — Former Store Manager
-
-Adidas Cavendish
-
-*  [jamie.johannes@adidas.com](mailto:jamie.johannes@adidas.com)
-*  068 065 4435
-
-### Jarryd Brown — Store Manager
-
-Adidas Cavendish
-
-*  [jarryd.brown@adidas.com](mailto:jarryd.brown@adidas.com)
-*  084 286 7807
-
----
-
-# Agile Development Portfolio
-
-## Imaan Achmat
-
-**Institution:** Cape Peninsula University of Technology (CPUT)  
-**Module:** Project Presentation 3 – PRP372S  
-**Project:** Laundry Pickup Pro  
-**Role:** Product Owner  
-**Methodology:** Agile Software Development
-
----
-
-## About This Portfolio
-
-Welcome to my Agile Development Portfolio!
-
-This portfolio documents my learning experiences, contributions, and reflections throughout the development of **Laundry Pickup Pro**, a software application designed to make laundry services more convenient and accessible.
-
-As the Product Owner, I was responsible for ensuring that the project remained focused on user needs, organising and prioritising requirements, and supporting the team's overall project direction.
-
-This portfolio contains evidence of our Agile development process, including our team charter, user stories, product backlog, sprint backlog, and Agile logbook.
-
----
-
-## Project Overview: Laundry Pickup Pro
-
-Laundry Pickup Pro is a laundry pick-up and drop-off service application designed to assist residents in Maitland, Observatory, and Woodstock.
-
-The application aims to address the challenges faced by working individuals with busy schedules, elderly residents, and people living in apartments without access to laundry facilities.
-
-### Project Objectives
-
-- Provide a convenient laundry booking system.
-- Allow customers to schedule laundry collections and deliveries.
-- Improve accessibility to laundry services.
-- Connect customers with laundromat service providers.
-- Create an affordable and user-friendly solution.
-
-### Project Management Tool
-
-Our team used Trello to organise tasks, monitor progress, and manage the Agile workflow.
-
-**[View Our Trello Board](https://trello.com/b/D6tnqbrx/laundry-pickup-pro)**
-
----
-
-# 1. Agile Team Charter
-
-## Evidence
-
-The Agile Team Charter was developed to establish our team's shared goals, individual responsibilities, communication methods, and working agreements.
-
-Our team consisted of four members with the following roles:
+The Agile Team Charter documents our team's purpose, vision, roles, ways of working, communication agreements, definition of done, risks and milestones.
 
 | Team Member | Role |
-|---|---|
+| :--- | :--- |
 | Imaan Achmat | Product Owner |
 | Sabelo Ceza | Agile Lead |
 | Zacharia Dipudi | UI/UX Designer |
 | Charmaine Dlamini | Developer / Analyst / Tester |
 
-The charter outlined our project vision, team values, communication expectations, decision-making processes, and definition of done.
+Our team agreed to use Agile practices such as stand-ups, weekly planning, reviews and retrospectives.
 
-**Evidence Document:** [Agile Team Charter](./Agile%20Team%20Charter.pdf)
+We also identified Microsoft Teams, WhatsApp and email as communication channels.
 
-## Personal Reflection
+**Document:** [View Agile Team Charter](./agile-charter.pdf)
 
-Creating the Agile Team Charter helped me understand the importance of establishing clear roles and responsibilities within a software development team.
+### Charter Reflection
 
-As the Product Owner, I learned that understanding user needs and prioritising project requirements are essential responsibilities. The charter provided a shared understanding of our project goals and helped establish expectations for how our team would work together.
+Creating the Agile Team Charter helped me understand the importance of clearly defined roles and responsibilities in software development.
 
-I also learned that communication, accountability, and collaboration are important for keeping a project organised. Establishing working agreements helped me understand how teams can manage disagreements, deadlines, and challenges more effectively.
+As Product Owner, I learned why understanding user needs and maintaining an organised backlog are essential to keeping the project focused.
 
-This experience strengthened my understanding of Agile teamwork and the importance of planning before beginning development.
-
----
-
-# 2. User Stories and Tasks
-
-## Evidence
-
-User stories describe software features from the perspective of the people who will use the application.
-
-For Laundry Pickup Pro, our intended users include customers who need convenient laundry services and laundromat owners who provide those services.
-
-Examples of user stories relevant to the application include:
-
-| User Story | Related Tasks |
-|---|---|
-| As a customer, I want to register an account so that I can access laundry services. | Design registration form, implement authentication, validate user details. |
-| As a customer, I want to book a laundry collection so that I can schedule a convenient pickup. | Create booking interface, capture pickup details, store booking information. |
-| As a customer, I want to track my laundry order so that I can monitor its progress. | Design tracking interface, display order status, connect order information. |
-| As a laundromat owner, I want to manage customer bookings so that I can organise incoming laundry requests. | Create booking management interface, display bookings, update booking statuses. |
-
-*These are illustrative user stories based on the project objectives. The final evidence should reflect the actual user stories recorded by the team.*
-
-**Evidence:** [View User Stories on Trello](https://trello.com/b/D6tnqbrx/laundry-pickup-pro)
-
-**Additional Evidence:** Add screenshots or the team's user story document here.
-
-## Personal Reflection
-
-Working with user stories helped me understand the importance of designing software from the user's perspective.
-
-Instead of focusing only on technical features, I learned to consider what users want to achieve and how the application can solve their problems.
-
-As the Product Owner, I developed a better understanding of how user requirements can be translated into smaller, manageable development tasks.
-
-This process helped me recognise the importance of writing clear requirements, identifying user priorities, and ensuring that each feature contributes to the overall purpose of the application.
+The charter also showed me how communication, accountability and shared working agreements can support teamwork, especially when managing deadlines and challenges.
 
 ---
 
-# 3. Product Backlog
+## 2. User Stories and Tasks
 
-## Evidence
+### Evidence
 
-The Product Backlog is a prioritised list of features, requirements, improvements, and tasks needed to develop the application.
+User stories describe features from the perspective of the people who will use the application.
 
-For Laundry Pickup Pro, the product backlog helps organise the work required to deliver a functional laundry service platform.
+The following are **illustrative examples based on our project goals**, not a verified export of our team's completed Trello cards.
 
-The main project requirements include:
+| Example User Story | Example Development Tasks |
+| :--- | :--- |
+| As a customer, I want to register so I can access laundry services. | Design registration form; validate details; implement sign-up. |
+| As a customer, I want to schedule a pickup so I can choose a convenient collection time. | Design booking form; capture pickup details; save booking. |
+| As a customer, I want to track my order so I know its progress. | Design tracking view; display current order status. |
+| As a laundromat owner, I want to manage bookings so I can organise requests. | Build booking list; enable status updates. |
 
-- User registration and login.
-- Customer profile management.
-- Laundry service booking.
-- Pickup and delivery scheduling.
-- Order tracking.
-- Laundromat integration.
-- Application testing and improvements.
+**Project Board:** [View Trello](https://trello.com/b/D6tnqbrx/laundry-pickup-pro)
 
-As Product Owner, my role includes organising the backlog and deciding which requirements should receive priority based on their importance to users and the project goals.
+**Evidence to add:** Screenshot or document showing the team's actual user stories and task breakdowns.
 
-**Evidence:** [View Product Backlog on Trello](https://trello.com/b/D6tnqbrx/laundry-pickup-pro)
+### User Stories Reflection
 
-**Additional Evidence:** Add a screenshot showing the prioritised product backlog.
+Working with user stories helped me understand the importance of thinking from the user's perspective rather than focusing only on technical features.
 
-## Personal Reflection
+I learned how a user need can be translated into smaller, more manageable development tasks.
 
-Working with the Product Backlog helped me understand the importance of prioritisation in Agile software development.
-
-I learned that not every feature can be developed at the same time and that the most important requirements should be identified before development begins.
-
-As the Product Owner, this helped me understand how to balance user needs, project objectives, and available development time.
-
-The backlog also demonstrated how breaking a large project into smaller requirements can make planning and progress tracking more manageable.
-
-This experience improved my understanding of project organisation, decision-making, and requirement management.
+This helped me better understand the Product Owner's role in connecting user requirements with the work carried out by the team.
 
 ---
 
-# 4. Sprint Backlog
+## 3. Product Backlog
 
-## Evidence
+### Evidence
 
-The Sprint Backlog contains the tasks selected from the Product Backlog for completion during a particular sprint.
+The Product Backlog is the prioritised list of requirements, features and improvements for Laundry Pickup Pro.
 
-It helps the development team focus on specific goals and monitor the work that needs to be completed within the sprint period.
+The project charter identifies planned capabilities such as:
 
-Our project planning identified several development activities, including:
+- User booking functionality
+- Laundry pickup and delivery scheduling
+- Integration with laundromat owners
+- Convenient and affordable service access
+- Order tracking, identified in our project goals
 
-- Project planning and requirements gathering.
-- UI/UX design.
-- Application development.
-- Database design and setup.
-- System integration.
-- Testing and bug fixing.
-- Final review and deployment.
+**Project Board:** [View Trello](https://trello.com/b/D6tnqbrx/laundry-pickup-pro)
 
-These activities formed part of the project's planned milestones. The specific tasks assigned to each sprint should be shown in the sprint backlog evidence.
+**Evidence to add:** Screenshot of the actual prioritised backlog, including priorities or ordering of tasks.
 
-**Evidence:** [View Sprint Activities on Trello](https://trello.com/b/D6tnqbrx/laundry-pickup-pro)
+### Product Backlog Reflection
 
-**Additional Evidence:** Add screenshots showing actual sprint tasks, assigned members, and task progress.
+The Product Backlog helped me understand that development work needs to be prioritised rather than approached all at once.
 
-## Personal Reflection
+As Product Owner, I learned to consider which features offer the greatest value to users and how requirements should support the project's goals.
 
-Learning about the Sprint Backlog helped me understand how Agile teams divide project requirements into smaller tasks that can be completed within a specific period.
-
-I learned that sprint planning is important because it gives the team a clear focus and helps members understand what needs to be achieved.
-
-The sprint process also showed me how progress can be monitored and how unfinished tasks or challenges may affect the project timeline.
-
-As the Product Owner, this strengthened my understanding of the relationship between project priorities, sprint goals, and the delivery of useful features.
+This improved my understanding of planning, decision-making and managing the scope of a software project.
 
 ---
 
-# 5. Agile Logbook
+## 4. Sprint Backlog
 
-## Evidence
+### Evidence
 
-The Agile Logbook is used to document team activities, progress updates, challenges, decisions, and reflections throughout the development process.
+A Sprint Backlog contains the tasks selected for a particular sprint and helps the team work towards a defined sprint goal.
 
-Our Agile Team Charter established the following team activities:
+Our Agile Team Charter includes the following **overall project milestones**; these are not a substitute for evidence of actual sprint commitments.
 
-| Agile Activity | Planned Frequency | Purpose |
-|---|---|---|
-| Daily Stand-ups | Every working day | Discuss progress, current tasks, and challenges. |
-| Planning Meetings | Once a week | Plan upcoming tasks and assign responsibilities. |
-| Sprint Reviews | End of each sprint or milestone | Review completed work and gather feedback. |
-| Retrospectives | After each sprint or milestone | Reflect on challenges and identify improvements. |
+| Planned Milestone | Target |
+| :--- | :--- |
+| Project Planning | Week 1 |
+| Requirements Gathering | Week 2 |
+| UI/UX Design | Week 3 |
+| Coding and Implementation | Week 4 |
+| Database Design and Setup | Week 5 |
+| System Integration | Week 6 |
+| Testing and Bug Fixing | Week 7 |
+| Final Review and Deployment | Week 8 |
 
-The team charter also identified Microsoft Teams, WhatsApp, and email as communication tools.
+**Existing Document:** [View Sprint Book](./sprint-book.pdf)
 
-**Evidence:** Add the Agile Logbook document or screenshots showing meeting records, progress updates, and retrospective notes.
+**Project Board:** [View Trello](https://trello.com/b/D6tnqbrx/laundry-pickup-pro)
 
-## Personal Reflection
+**Evidence to add:** Actual sprint backlog screenshots showing sprint goals, assigned tasks and their progress.
 
-The Agile Logbook helped me understand the importance of documenting project progress and maintaining communication throughout software development.
+### Sprint Backlog Reflection
 
-I learned that recording tasks, decisions, and challenges provides useful information when reviewing the progress of a project.
+Studying sprint planning helped me understand how a large development project can be divided into smaller, achievable goals.
 
-It also showed me why regular updates and reflections are important for identifying problems early and improving teamwork.
+I learned that sprint tasks need to be clear and realistic so that the team can monitor progress and identify obstacles.
 
-As the Product Owner, I recognised the value of keeping track of project activities and ensuring that team members remain informed about priorities and expectations.
-
-This experience helped me develop a greater appreciation for transparency, accountability, and continuous improvement in Agile development.
-
----
-
-# Overall Learning Reflection
-
-Throughout the Laundry Pickup Pro project, I developed a better understanding of Agile software development and the responsibilities involved in managing a software project.
-
-One of the most important lessons I learned was that successful software development requires more than writing code. It also involves understanding user requirements, communicating effectively, organising tasks, and continuously reviewing progress.
-
-My role as Product Owner helped me understand how project priorities influence development decisions and how important it is to ensure that the application addresses real user needs.
-
-The Agile Team Charter, user stories, backlogs, and logbook each contributed to my understanding of the software development process.
-
-Overall, this project provided an opportunity to strengthen my project management knowledge, teamwork skills, and understanding of Agile principles.
+This strengthened my understanding of how sprint work should align with the priorities set in the Product Backlog.
 
 ---
 
-## Project Resources
+## 5. Agile Logbook
 
-- [Laundry Pickup Pro – Trello Board](https://trello.com/b/D6tnqbrx/laundry-pickup-pro)
-- [GitHub Repository](https://github.com/imaanach/imaanach.github.io)
-- [Agile Team Charter](./Agile%20Team%20Charter.pdf)
+### Evidence
+
+An Agile Logbook records progress, meetings, challenges, decisions and lessons learned during the project.
+
+Our Team Charter established the following planned ceremonies:
+
+| Activity | Planned Frequency | Purpose |
+| :--- | :--- | :--- |
+| Daily Stand-up | Every working day | Share progress and blockers |
+| Planning | Weekly | Agree on tasks and priorities |
+| Review or Demo | End of each sprint or milestone | Demonstrate completed work |
+| Retrospective | After each sprint or milestone | Reflect and improve |
+
+**Evidence to add:** The team's actual dated logbook entries, meeting notes, sprint reviews and retrospective records.
+
+The charter describes the planned process but does not itself prove that these meetings took place.
+
+### Agile Logbook Reflection
+
+Learning about Agile logbooks helped me understand why documenting progress and decisions matters in a team project.
+
+Recording updates and challenges makes it easier to identify problems, reflect on progress and improve how the team works.
+
+As Product Owner, I recognised the importance of transparency and regular communication when keeping the team aligned with project priorities.
 
 ---
+
+## Overall Agile Learning Reflection
+
+The Laundry Pickup Pro project helped me build a stronger understanding of Agile project management and the responsibilities of a Product Owner.
+
+I learned that successful application development depends not only on technical implementation but also on understanding users, organising requirements, communicating effectively and reviewing progress.
+
+The charter, user stories, product backlog, sprint backlog and logbook each show a different part of the Agile process and how these practices work together.
+
+---
+
+# Professional Development Reflections
+
+## Reflection 1: Coding in Markdown (STAR Method)
+
+**Situation:** During this assignment, I was required to create a digital portfolio using GitHub and Markdown.
+
+**Task:** My task was to learn how to structure and format a professional CV using Markdown syntax.
+
+**Action:** I researched Markdown formatting and practiced using headings, lists, and links. I applied this knowledge to create a clean, structured, and easy-to-read portfolio. I ensured that my content was well-organized and professionally presented.
+
+**Result:** I successfully created a structured GitHub portfolio. This improved my ability to present information clearly and enhanced my understanding of tools commonly used in the software development industry.
+
+---
+
+## Reflection 2: Mock Interview Experience (STAR Method)
+
+**Situation:** As part of the work readiness training, I participated in a mock interview.
+
+**Task:** I needed to present myself professionally and answer interview questions confidently and effectively.
+
+**Action:** I prepared by reviewing common interview questions and practicing my responses. During the interview, I focused on maintaining professionalism, clear communication, and confidence.
+
+**Result:** The experience helped me identify areas for improvement, such as building confidence and structuring my answers more effectively. It also strengthened my communication skills and better prepared me for real-world interviews.
+
+---
+
+## Reflection 3: GitHub Pages (STAR Method)
+
+**Situation:** I was required to publish my portfolio using GitHub Pages.
+
+**Task:** My task was to deploy my Markdown portfolio and make it accessible online.
+
+**Action:** I created a GitHub repository, uploaded my portfolio, and enabled GitHub Pages. I ensured that the site was properly linked and tested the live URL to confirm that everything displayed correctly.
+
+**Result:** I successfully published my portfolio online. This improved my understanding of web deployment and hosting, which are essential skills in modern software development.
+
+---
+
+## References
+
+### Jamie Johannes — Former Store Manager
+
+**Adidas Cavendish**
+
+Contact details available upon request.
+
+### Jarryd Brown — Store Manager
+
+**Adidas Cavendish**
+
+Contact details available upon request.
+
